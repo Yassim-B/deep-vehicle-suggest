@@ -1,0 +1,282 @@
+Marque,Modele,Sieges,Consommation,Prix,Design,Motorisation,Type,Kilometrage
+Jaguar,XF,5,9.0,68395,4.5,Essence,Voiture,210284
+Jaguar,XF,5,7.5,35054,3.6,Diesel,Voiture,269808
+Maserati,Ghibli,5,11.0,32816,4.7,Essence,Voiture,47305
+Porsche,911,4,11.2,58593,4.3,Essence,Voiture,147381
+Volkswagen,Passat,5,6.5,35658,4.0,Diesel,Voiture,144461
+Volkswagen,Taos,5,8.0,92733,4.0,Essence,Voiture,40164
+Subaru,WRX,5,10.5,17902,4.7,Essence,Voiture,130364
+BMW,M3,5,8.9,21624,4.5,Essence,Voiture,237808
+Jaguar,XE,5,7.4,61912,4.0,Diesel,Voiture,246727
+Bentley,Bentayga,5,9.3,39645,4.8,Essence,Voiture,275695
+Ford,Focus,5,5.5,15054,4.0,Diesel,Voiture,216548
+Volkswagen,Passat,5,6.5,41778,4.0,Diesel,Voiture,137039
+Ferrari,Portofino,2,12.0,25839,5.0,Essence,Voiture,229479
+Nissan,Pathfinder,7,9.0,72768,4.5,Essence,Voiture,298789
+BMW,X6,5,10.1,54331,4.9,Diesel,Voiture,73713
+Nissan,Murano,5,9.0,87712,4.5,Essence,Voiture,17663
+Volvo,V90,5,7.2,47352,4.0,Diesel,Voiture,190403
+Lexus,NX,5,8.6,81640,4.5,Hybride,Voiture,171660
+Rolls-Royce,Cullinan,5,15.0,49744,5.0,Essence,Voiture,162623
+Jaguar,E-PACE,5,8.8,86840,4.3,Diesel,Voiture,217319
+Maserati,GranCabrio,4,14.0,98348,5.0,Essence,Voiture,21622
+Jaguar,F-TYPE,2,10.0,57933,4.9,Essence,Voiture,160068
+Kia,Soul,5,8.0,57496,4.0,Essence,Voiture,232894
+Jaguar,XE,5,7.4,61912,4.0,Diesel,Voiture,246727
+Volkswagen,Beetle,4,6.8,59525,4.4,Essence,Voiture,169968
+Chevrolet,Traverse,7,10.1,55203,4.5,Essence,SUV,200134
+Hyundai,Nexo,5,8.9,22406,4.7,Essence,SUV,168149
+Ferrari,Portofino,2,12.0,45427,5.0,Essence,Voiture,94708
+Volvo,XC60,5,7.2,19370,4.4,Diesel,SUV,75188
+Rolls-Royce,Phantom,4,14.0,84924,5.0,Essence,Voiture,81211
+Hyundai,Veloster,4,8.9,29381,4.3,Essence,Voiture,133044
+Mazda,RX-8,2,11.6,60561,4.5,Essence,Voiture,8030
+Ford,Focus,5,5.5,15054,4.0,Diesel,Voiture,216548
+Volvo,XC90,7,7.8,23145,4.5,Diesel,SUV,194221
+Maserati,GranCabrio,4,14.0,98348,5.0,Essence,Voiture,21622
+Lexus,NX,5,8.6,81640,4.5,Hybride,SUV,171660
+Ford,Fusion,5,6.0,59710,4.8,Essence,Voiture,204712
+Audi,e-tron,5,9.0,47376,4.5,Électrique,SUV,221463
+Rolls-Royce,Dawn,4,14.0,95103,5.0,Essence,Voiture,262993
+Maserati,Quattroporte,5,8.5,41781,4.7,Essence,Voiture,217424
+Lamborghini,Aventador,2,14.7,16222,5.0,Essence,Voiture,265607
+Ford,Expedition,7,12.5,92799,4.0,Essence,SUV,218956
+Lamborghini,Urus,5,12.0,32757,5.0,Essence,SUV,177985
+Lexus,LX,7,11.5,65673,4.5,Essence,SUV,15420
+Lamborghini,Huracan,2,15.0,39521,5.0,Essence,Voiture,108361
+Mazda,CX-30,5,7.5,37973,4.0,Essence,SUV,263573
+Volvo,V50,5,6.0,82423,4.5,Diesel,Voiture,47362
+Subaru,Ascent,7,8.7,26718,4.0,Essence,SUV,74716
+Mercedes,AMG GT,2,11.0,15398,5.0,Essence,Voiture,131197
+Subaru,Crosstrek,5,8.7,75924,4.0,Essence,Voiture,170512
+Land Rover,Evoque,5,8.0,89956,4.7,Essence,SUV,250058
+Nissan,Murano,5,9.0,75907,4.0,Essence,SUV,86943
+Honda,Ridgeline,5,7.5,74178,4.0,Essence,SUV,200105
+Subaru,Legacy,5,8.0,23836,4.5,Essence,Voiture,295883
+Jaguar,F-TYPE,2,11.0,64103,5.0,Essence,Voiture,206258
+Lexus,LS,5,6.5,67895,4.5,Essence,Voiture,202351
+Rolls-Royce,Wraith,4,15.0,22520,5.0,Essence,Voiture,209200
+BMW,Série 5,5,10.0,90302,4.5,Essence,Voiture,145349
+Ford,Focus,5,6.5,15054,4.0,Diesel,Voiture,216548
+Chevrolet,Trailblazer,5,7.0,72058,4.0,Essence,SUV,280886
+Chevrolet,Malibu,5,8.0,30515,4.0,Essence,Voiture,79145
+Tesla,Roadster,2,6.0,86219,4.7,Électrique,Voiture,150881
+Audi,e-tron,5,9.0,16941,4.5,Électrique,SUV,105614
+Aston Martin,DBS,2,12.0,63497,5.0,Essence,Voiture,132742
+Bentley,Continental,4,12.5,31653,5.0,Essence,Voiture,52467
+Aston Martin,Vanquish,2,15.0,92121,5.0,Essence,Voiture,23877
+Ferrari,F8 Tributo,2,15.0,36902,5.0,Essence,Voiture,152671
+Porsche,Cayenne,5,10.0,86680,5.0,Essence,SUV,292075
+Audi,A6,5,8.5,78209,4.5,Essence,Voiture,277967
+Aston Martin,Rapide,5,12.0,59689,5.0,Essence,Voiture,172983
+BMW,Série 7,5,10.5,69255,4.5,Essence,Voiture,113379
+Bentley,Continental,5,15.0,70169,5.0,Essence,Voiture,189821
+Aston Martin,Vantage,2,14.5,89067,5.0,Essence,Voiture,103780
+Mazda,MX-5,2,7.0,48388,4.5,Essence,Voiture,41246
+Hyundai,Sonata,5,8.5,95943,4.0,Essence,Voiture,156294
+Mercedes,Classe C,5,6.5,20337,4.5,Essence,Voiture,224250
+Nissan,GT-R,2,10.0,87823,5.0,Essence,Voiture,148007
+Mazda,CX-5,5,8.5,27372,4.0,Essence,SUV,120237
+Audi,A8,5,9.5,59069,4.5,Essence,Voiture,116769
+Honda,Odyssey,7,6.5,68734,4.5,Essence,SUV,127573
+Ford,Mustang,4,8.0,40901,5.0,Essence,Voiture,228766
+Lamborghini,Urus,5,12.0,19610,5.0,Essence,SUV,261762
+Land Rover,Range Rover,5,12.0,96149,5.0,Essence,SUV,173037
+Aston Martin,Vantage,2,12.0,58704,5.0,Essence,Voiture,28486
+BMW,X1,5,6.5,42266,4.5,Diesel,SUV,110806
+Hyundai,Veloster,4,7.0,29381,4.5,Essence,Voiture,133044
+Toyota,RAV4,5,7.0,36930,4.5,Essence,SUV,10333
+Volkswagen,Touareg,5,8.5,25806,4.5,Diesel,SUV,184529
+Land Rover,Velar,5,8.0,27246,4.5,Diesel,SUV,59430
+Land Rover,Defender,5,8.5,21109,4.5,Diesel,SUV,72185
+Mercedes,GLB,5,7.0,23588,4.5,Diesel,SUV,224608
+Volkswagen,Jetta,5,6.5,73738,4.5,Essence,Voiture,276486
+Toyota,Yaris,5,7.0,34422,4.5,Essence,Voiture,236730
+Volvo,S60,5,8.5,49069,4.5,Diesel,Voiture,65031
+BMW,X5,5,7.5,76658,4.5,Diesel,SUV,55458
+Porsche,Taycan,4,8.5,39167,5.0,Électrique,SUV,115067
+Subaru,Exiga,7,6.5,84277,4.5,Diesel,SUV,292501
+Mazda,CX-30,5,8.5,67997,4.5,Diesel,SUV,254634
+Chevrolet,Bolt,5,8.5,32422,4.5,Diesel,SUV,178537
+Rolls-Royce,Cullinan,5,15.0,70184,5.0,Essence,SUV,66239
+Ford,Edge,5,10.5,80964,5.0,Essence,SUV,234689
+Maserati,Quattroporte,2,14.5,93549,5.0,Essence,Voiture,88181
+Mercedes,Classe E,5,7.2,73226,4.5,Essence,Voiture,231299
+Nissan,Sentra,5,6.9,51506,4.2,Essence,Voiture,1062
+Nissan,Leaf,5,0.0,32734,4.8,Électrique,Voiture,123284
+Jaguar,E-PACE,5,7.4,18118,4.7,Diesel,Voiture,254104
+Mazda,Mazda6,5,6.8,42546,4.5,Diesel,Voiture,287574
+Hyundai,Palisade,7,8.9,35473,4.0,Essence,SUV,56823
+Volkswagen,Touareg,5,8.0,85668,4.5,Diesel,SUV,17923
+Land Rover,Range Rover,5,12.5,51455,4.3,Essence,SUV,36113
+Land Rover,Freelander,5,6.7,38616,4.4,Essence,SUV,198724
+Volvo,C30,4,7.1,91399,4.8,Diesel,Voiture,209058
+Bentley,Flying Spur,5,12.9,98481,4.7,Essence,Voiture,18284
+Lamborghini,Urus,5,12.0,92882,4.8,Essence,SUV,294053
+Hyundai,Ioniq,5,4.0,29674,4.0,Hybride,Voiture,76498
+Honda,Fit,5,5.6,59422,4.1,Essence,Voiture,234891
+Volkswagen,Touareg,5,8.4,19343,4.2,Diesel,SUV,276081
+Hyundai,Nexo,5,0.0,63601,4.8,Électrique,SUV,179172
+Tesla,Model X,5,0.0,36653,4.9,Électrique,SUV,65268
+Toyota,Tacoma,5,9.2,89296,4.3,Diesel,Pickup,132026
+Jaguar,F-TYPE,2,10.1,82724,5.0,Essence,Voiture,71114
+Chevrolet,Bolt,5,0.0,87237,4.5,Électrique,Voiture,191827
+Lamborghini,Gallardo,2,15.0,21577,5.0,Essence,Voiture,184848
+Ford,Escape,5,7.2,29333,4.5,Essence,SUV,250634
+Land Rover,Evoque,5,8.7,74342,4.8,Diesel,SUV,51231
+Toyota,Avalon,5,4.8,90018,4.0,Hybride,Voiture,11023
+Kia,Carnival,7,8.7,52889,4.5,Essence,Minivan,163776
+Hyundai,Kona,5,0.0,19671,4.8,Électrique,SUV,29333
+Aston Martin,DB11,2,11.7,61909,5.0,Essence,Voiture,215491
+Tesla,Model S,5,0.0,83228,5.0,Électrique,Voiture,93190
+Kia,Optima,5,8.3,76578,4.3,Hybride,Voiture,276672
+Toyota,Avalon,5,0.0,76957,4.5,Électrique,Voiture,100807
+Maserati,Levante,5,8.6,47357,4.9,Diesel,SUV,278719
+Lexus,LC,2,12.0,36756,5.0,Essence,Voiture,116424
+Volvo,V90,5,7.1,74679,4.5,Diesel,Voiture,241918
+Mazda,Mazda2,5,5.3,78276,4.0,Essence,Voiture,179704
+Nissan,Titan,5,8.0,97241,4.5,Diesel,Pickup,106248
+BMW,X3,5,7.0,45184,4.8,Diesel,SUV,139085
+Jaguar,I-PACE,5,0.0,66469,4.7,Électrique,SUV,282356
+Toyota,Corolla,5,4.5,33725,4.2,Hybride,Voiture,272008
+Honda,CR-V,5,5.6,28294,4.3,Essence,SUV,160363
+Volvo,S60,5,7.0,82968,4.2,Essence,Voiture,293248
+Jaguar,XF,5,7.4,65935,4.6,Diesel,Voiture,35996
+Hyundai,Kona,5,6.2,84089,4.9,Essence,SUV,20549
+Toyota,Tacoma,5,9.1,26143,4.3,Essence,Pickup,82439
+Land Rover,Discovery,5,9.6,79570,4.4,Diesel,SUV,267944
+Honda,Accord,5,7.2,76983,4.0,Essence,Voiture,127295
+Hyundai,Sonata,5,6.5,58112,4.0,Hybride,Voiture,2528
+Honda,Civic,5,7.5,76548,4.8,Essence,Voiture,139648
+Jaguar,XF,5,7.4,67152,4.6,Essence,Voiture,265273
+Kia,Sportage,5,7.0,29929,4.5,Essence,SUV,284805
+Maserati,GranCabrio,2,12.0,45782,5.0,Essence,Voiture,203474
+Hyundai,Santa Fe,5,8.7,39322,4.4,Essence,SUV,96049
+Hyundai,Veloster,4,6.9,27110,4.3,Essence,Voiture,63618
+Kia,K900,5,8.0,87840,4.6,Essence,Voiture,38130
+Volvo,XC90,7,7.8,61703,4.5,Essence,SUV,255146
+Toyota,Tacoma,5,8.5,77894,4.2,Essence,Pickup,186679
+Kia,Stinger,5,9.0,21563,4.8,Essence,Voiture,106427
+Subaru,Tribeca,5,10.5,35391,4.5,Essence,SUV,15859
+Maserati,Levante,5,9.2,53892,4.6,Essence,SUV,136779
+Volvo,S60,5,7.0,52605,4.6,Essence,Voiture,188730
+Kia,Stinger,5,8.2,92615,4.7,Essence,Voiture,29764
+Audi,A8,5,7.5,52392,4.8,Essence,Voiture,154071
+Volvo,XC90,7,8.5,74368,4.6,Essence,SUV,298277
+Volkswagen,Atlas,7,6.4,32096,4.7,Essence,SUV,187253
+Land Rover,Freelander,5,8.7,57876,4.3,Essence,SUV,166563
+Kia,Sorento,7,7.8,87520,4.4,Essence,SUV,93027
+Lexus,HS,5,8.0,96268,4.6,Hybride,Voiture,239515
+Toyota,Corolla,5,6.5,30976,4.8,Essence,Voiture,281994
+Mazda,CX-5,5,6.7,53347,4.5,Essence,SUV,246494
+Chevrolet,Trailblazer,5,7.2,40137,4.4,Essence,SUV,262216
+Ferrari,Portofino,2,12.0,20127,5.0,Essence,Voiture,298780
+Lamborghini,Huracan,2,12.6,32277,5.0,Essence,Voiture,215372
+Land Rover,Range Rover,5,10.2,47477,4.8,Essence,SUV,220350
+Subaru,BRZ,2,8.8,84216,4.6,Essence,Voiture,205695
+Land Rover,Discovery,5,12.2,44281,4.3,Essence,SUV,264455
+Ferrari,Portofino,2,8.7,45336,4.9,Essence,Voiture,222045
+Lamborghini,Huracan,2,12.6,29760,4.8,Essence,Voiture,13135
+Land Rover,Range Rover,5,6.5,29746,4.7,Essence,SUV,225824
+Aston Martin,Rapide,4,9.2,59920,5.0,Essence,Voiture,40845
+Porsche,Macan,5,9.7,63945,4.5,Essence,SUV,165155
+Subaru,Crosstrek,5,7.5,63535,4.6,Essence,SUV,125567
+Audi,Q3,5,6.8,78145,4.8,Essence,SUV,77801
+Ford,Ranger,5,9.1,86335,4.3,Diesel,Pickup,2022
+Subaru,Crosstrek,5,7.1,22278,4.7,Essence,SUV,2023
+Aston Martin,DBX,5,8.8,75461,4.5,Essence,SUV,2021
+Chevrolet,Malibu,5,7.4,36946,4.8,Essence,Voiture,2020
+Volkswagen,Jetta,5,8.6,67777,4.6,Essence,Voiture,2022
+Volvo,S60,5,8.7,70176,4.5,Essence,Voiture,2023
+Tesla,Model Y,5,0.0,54475,4.9,Électrique,Voiture,2023
+Kia,Sorento,7,8.2,85103,4.6,Essence,SUV,2022
+Chevrolet,Silverado,5,9.0,15917,4.8,Essence,Pickup,2021
+BMW,X3,5,7.5,53384,4.6,Diesel,SUV,2021
+Chevrolet,Cruze,5,7.8,15797,4.6,Essence,Voiture,2020
+Tesla,Model S,5,0.0,75281,4.9,Électrique,Voiture,2022
+Rolls-Royce,Wraith,4,10.1,79360,4.9,Essence,Voiture,2023
+Subaru,Outback,5,9.4,17612,4.5,Essence,SUV,2022
+Honda,Odyssey,7,8.7,79495,4.8,Essence,Minivan,2021
+Subaru,Legacy,5,9.7,88778,4.6,Essence,Voiture,2020
+Mercedes,Classe A,5,6.5,23837,4.6,Essence,Voiture,2023
+Mazda,Mazda3,4,9.1,87677,4.4,Diesel,Voiture,2021
+Mazda,CX-9,2,14.5,95016,3.4,Diesel,Voiture,2020
+Volvo,XC60,4,13.6,84661,4.9,Essence,Voiture,2022
+Mazda,MPV,4,5.3,80675,4.6,Électrique,Voiture,2023
+Tesla,Cybertruck,5,5.3,60308,4.7,Électrique,Voiture,2021
+Rolls-Royce,Phantom,3,7.8,69865,4.0,Essence,Voiture,2020
+Ford,F-150,7,12.9,77366,4.3,Essence,Voiture,2022
+Ferrari,GTC4Lusso,6,10.5,67210,3.7,Diesel,Voiture,2021
+Chevrolet,Cruze,4,13.6,54940,3.7,Électrique,Voiture,2020
+Maserati,GranCabrio,2,6.1,92190,3.8,Essence,Voiture,2023
+Aston Martin,Vanquish,2,13.3,51986,3.5,Diesel,Voiture,2021
+Audi,A6,1,5.4,43992,4.7,Essence,Voiture,2022
+Bentley,Flying Spur,6,8.7,28025,4.0,Électrique,Voiture,2023
+Volvo,S60,1,7.1,26157,3.7,Diesel,Voiture,2020
+Aston Martin,DBX,7,10.3,21449,4.6,Essence,Voiture,2021
+Audi,A3,2,9.9,95484,3.4,Diesel,Voiture,2022
+Subaru,Exiga,3,5.2,86902,3.6,Électrique,Voiture,2023
+Land Rover,Freelander,6,7.5,63815,3.1,Essence,Voiture,2020
+Volvo,C30,6,10.8,61287,3.0,Électrique,Voiture,2023
+Rolls-Royce,Cullinan,6,12.4,36249,3.2,Électrique,Voiture,2022
+Audi,Q5,2,7.9,74085,4.6,Diesel,Voiture,2021
+Kia,Forte,3,11.5,82578,4.8,Électrique,Voiture,2022
+Lexus,NX,4,14.5,34992,3.5,Essence,Voiture,2021
+Lamborghini,Gallardo,7,8.8,33853,4.4,Essence,Voiture,2020
+Porsche,911,5,9.8,26718,3.1,Diesel,Voiture,2023
+Tesla,Model Y,7,12.6,42377,4.5,Électrique,Voiture,2021
+Jaguar,I-PACE,7,11.7,77271,3.2,Électrique,Voiture,2020
+Ferrari,GTC4Lusso,2,13.9,61078,4.0,Essence,Voiture,2023
+Lexus,NX,2,14.7,17271,4.1,Diesel,Voiture,2021
+Lamborghini,Aventador,2,12.8,35522,4.1,Essence,Voiture,2022
+Lamborghini,Murcielago,3,13.6,88884,3.9,Essence,Voiture,2023
+Aston Martin,DB11,7,8.6,62622,4.3,Essence,Voiture,2020
+Jaguar,E-PACE,5,6.9,79937,4.7,Essence,Voiture,2021
+Subaru,Crosstrek,6,11.0,58578,3.5,Diesel,Voiture,2020
+Land Rover,Freelander,3,12.6,43727,4.3,Essence,Voiture,2021
+Maserati,Quattroporte,7,7.9,85748,4.2,Essence,Voiture,2022
+Kia,Stinger,6,14.9,51257,3.9,Électrique,Voiture,2023
+Porsche,Cayenne,7,11.1,93623,3.1,Diesel,Voiture,2020
+Volvo,V90,4,6.2,32241,3.5,Électrique,Voiture,2021
+Volvo,S60,6,7.0,64911,3.5,Diesel,Voiture,2022
+Land Rover,Evoque,7,5.2,24383,4.4,Diesel,Voiture,2023
+Lamborghini,Murcielago,4,10.6,98606,4.5,Essence,Voiture,2020
+Volvo,S80,1,8.9,58989,3.7,Essence,Voiture,2021
+Chevrolet,Cruze,4,11.4,27295,3.1,Électrique,Voiture,2022
+Volkswagen,Beetle,6,10.5,62135,3.4,Électrique,Voiture,2023
+Nissan,Rogue,2,10.8,87677,3.4,Essence,Voiture,2020
+Ford,Fusion,6,6.7,79361,3.1,Électrique,Voiture,2021
+Lamborghini,Gallardo,7,12.8,59185,4.2,Essence,Voiture,2022
+Ferrari,Portofino,2,7.4,24562,4.1,Essence,Voiture,2023
+Maserati,Levante,2,5.5,49746,4.0,Essence,Voiture,2020
+Aston Martin,DBS,3,9.8,17603,4.5,Essence,Voiture,2021
+Chevrolet,Equinox,3,7.0,68043,3.3,Électrique,Voiture,2022
+Jaguar,F-PACE,2,8.1,99285,3.0,Électrique,Voiture,2023
+Audi,A6,1,7.1,88297,3.3,Diesel,Voiture,2020
+Ferrari,812 Superfast,7,12.1,56553,3.2,Essence,Voiture,2021
+Bentley,Bentayga,3,10.1,61355,3.5,Diesel,Voiture,2022
+Ferrari,488,7,9.9,72818,3.0,Essence,Voiture,2023
+Audi,Q7,5,9.5,85349,3.7,Essence,Voiture,2020
+Lexus,IS,7,10.3,91273,3.2,Électrique,Voiture,2021
+Lamborghini,Aventador,7,5.6,57793,4.2,Essence,Voiture,2022
+Mercedes,GLC,4,13.0,172110,4.1,Électrique,Voiture,2023
+Volvo,V60,4,12.7,213828,3.6,Diesel,Voiture,2024
+Honda,Accord,2,6.5,13041,4.7,Essence,Voiture,2024
+Land Rover,Discovery,4,10.7,124411,3.7,Électrique,Voiture,2024
+BMW,M5,2,12.5,63163,4.6,Essence,Voiture,2024
+Honda,Odyssey,1,12.8,86394,4.1,Essence,Voiture,2024
+Tesla,Model Y,6,9.5,45018,4.3,Essence,Voiture,2024
+Ford,F-150,5,5.3,200236,3.4,Diesel,Voiture,2024
+Kia,Carnival,6,11.2,8234,5.0,Diesel,Voiture,2024
+Mazda,CX-30,4,9.6,236590,4.4,Essence,Voiture,2024
+Kia,Sorento,5,9.7,46115,4.6,Diesel,Voiture,2024
+Mazda,Mazda6,4,5.7,294038,4.5,Diesel,Voiture,2024
+Volkswagen,Passat,3,14.6,265723,3.6,Électrique,Voiture,2024
+Volvo,C30,6,6.0,192651,4.6,Diesel,Voiture,2024
+Lamborghini,Huracan,5,10.4,114939,4.8,Essence,Voiture,2024
+Rolls-Royce,Wraith,5,7.5,247280,3.4,Électrique,Voiture,2024
+Ferrari,812 Superfast,5,11.7,289764,4.0,Essence,Voiture,2024
+Volkswagen,Passat,6,11.5,225718,3.7,Essence,Voiture,2024
+Audi,Q7,5,10.9,192042,4.4,Diesel,Voiture,2024
+Subaru,Impreza,7,12.1,136454,4.9,Électrique,Voiture,2024
+Mercedes,GLA,6,14.7,186319,3.8,Essence,Voiture,2024

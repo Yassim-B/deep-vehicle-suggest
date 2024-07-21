@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vehicle Recommendations</title>
+</head>
+<body>
+<h1>Recommended Vehicles</h1>
+<ul>
+    {% for vehicle in vehicles %}
+        <li>Brand: {{ vehicle.brand }}, Model: {{ vehicle.model }}, Type: {{ vehicle.type_vehicle }}</li>
+    {% endfor %}
+</ul>
+<a href="/">Back to search</a>
+</body>
+</html>
